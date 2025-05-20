@@ -1,78 +1,80 @@
-Hi 👋, I'm Kusa Lechisa
-A Passionate Software Engineer | Flutter & Firebase Dev | Python Enthusiast
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/assets/banner-image.png" alt="Banner" style="border-radius: 10px; width: 100%; max-height: 200px; object-fit: cover;">
+</p>
 
-  
+# 👋 Hey, I'm Kusa Lechisa
 
+<div align="center">
+  <em>Final Year Software Engineering Student at Haramaya University</em>  
+  🚀 Passionate about crafting full-stack apps & solving real-world challenges  
+  🌍 Currently building: <strong>Visit Ethiopia</strong> - A Flutter + Firebase tourism app  
+  🔍 Exploring: AI integration, Offline-first apps, Firebase Cloud Messaging
+</div>
 
+---
 
-🧑‍💻 About Me
-final kusa = SoftwareEngineer(
-  name: "Kusa Lechisa",
-  university: "Haramaya University",
-  graduation: "June 2025",
-  passion: ["mobile development", "real-world problem solving", "open-source"],
-  interests: ["AI integration", "offline-first apps", "cloud messaging", "UI/UX"],
-);
+## 🛠️ Tech Stack
 
+<p align="center">
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+</p>
 
-🎓 Final-year Software Engineering student at Haramaya University, graduating June 2025.
-🌟 Specializing in Flutter + Firebase to craft intuitive, user-centered mobile apps.
-🚀 Transforming ideas into reality with Dart, Firebase, Python, and Git.
-📱 Currently developing Visit Ethiopia, a Facebook-inspired tourism app to showcase Ethiopia’s beauty.
-🌍 My mission: Empower communities through accessible, innovative mobile technology.
-📫 Reach me at: kusalechisac@gmail.com
+---
 
+## 🌟 Featured Project
 
-🚀 Featured Project: Visit Ethiopia
-A Flutter + Firebase app promoting Ethiopia’s tourism and culture, inspired by Facebook’s social platform.
-🔧 Features
+### 🚀 Visit Ethiopia
+A vibrant mobile app promoting tourism in Ethiopia with social media-like features.  
+**Tech**: Flutter, Firebase (real-time updates, offline support, FCM)  
+🔗 [GitHub Repo](https://github.com/yourusername/visit-ethiopia) | 📱 [Demo Video](#)
 
-🧑‍🤝‍🧑 Firebase Auth for secure user authentication
-📝 Create, like, comment, and share posts (text + media)
-🌐 Real-time feed updates
-🔕 Firebase Cloud Messaging (FCM) for notifications
-📡 Offline data caching for seamless UX
-💾 Firebase Firestore for efficient data storage
+<div align="center">
+  <img src="https://via.placeholder.com/300x150.png?text=Visit+Ethiopia+Preview" alt="Project Preview" style="border-radius: 8px; margin-top: 10px;">
+</div>
 
-📂 Repository: Visit Ethiopia on GitHub🎥 Demo: Coming soon!
+---
 
-🛠️ Tech Stack & Tools
+## 📊 GitHub Stats
 
-  
-  
-  
-  
-  
-  
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&hide_border=true" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true" width="48%" />
+</p>
 
+---
 
-📊 GitHub Stats
+## 📝 Blog & Insights
 
-  
-  
+I occasionally write about software engineering, tech discoveries, and learning tips.  
+🔗 [My Blog](https://dev.to/yourusername)
 
+---
 
+## 📬 Let’s Connect
 
-✍️ Upcoming Projects
+<p align="center">
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=web&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kusalechisa@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-📖 AI-Powered Note Summarizer: Helping students study smarter with AI-driven insights.
-💬 Secure Chat App: Cross-platform messaging with end-to-end encryption.
-🧠 Knowledge Management Tool: A personal wiki powered by large language models.
+---
 
+<div align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+</div>
 
-🌐 Let's Connect
-
-  
-    
-  
-  
-    
-  
-
-
-
-“Strive for progress, not perfection.”
-
-Thanks for stopping by! ⭐️
+<p align="center">
+  Thanks for stopping by! ⭐ Give my repos a star if you like my work!
+</p>

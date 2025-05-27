@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/kusalechisa/kusalechisa/assets/banner-image.png" alt="Banner" width="100%" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/0001.jpg" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hey, I'm Kusa Lechisa

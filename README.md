@@ -48,7 +48,7 @@ A social media–inspired mobile app promoting Ethiopian tourism.
 
 ### Feedback & Corruption Suggestion System
 <div align="center">
-  <img src="https://feedback-website.onrender.com" alt="Project Preview" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="assets/image1.png" alt="Feedback System Preview" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 A comprehensive web-based platform developed for the Ethiopian Ministry of Innovation and Technology to gather citizen feedback and report corruption within public offices. The system implements secure authentication and real-time data processing to ensure transparency and accountability.

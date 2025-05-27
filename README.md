@@ -24,6 +24,8 @@ Currently focused on building **Visit Ethiopia** – A tourism app built with Fl
 
 ## 🚀 Featured Projects
 
+---
+
 ### 📱 Visit Ethiopia
 <div align="center">
   <img src="assets/Screenshot_20250523-010406.jpg" alt="Project Preview" style="border-radius: 12px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -45,6 +47,8 @@ A social media–inspired mobile app promoting Ethiopian tourism.
 - Offline Sync Capabilities
 
 [🔗 GitHub Repository](https://github.com/kusalechisa/visit-ethiopia) | [📱 Live Demo](#)
+
+---
 
 ### 💻 Feedback & Corruption Suggestion System
 <div align="center">
@@ -79,6 +83,8 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 - 🌐 Integrated with government systems for seamless workflow
 
 [🔗 GitHub Repository](https://github.com/kusalechisa/feedback) | [🌐 Live Demo](https://feedback-website.onrender.com/homepage)
+
+---
 
 ## 📊 GitHub Stats
 

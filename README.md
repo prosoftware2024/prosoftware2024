@@ -1,46 +1,47 @@
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/kusalechisa/kusalechisa/assets/banner-image.png" alt="Banner" style="border-radius: 10px; width: 100%; max-height: 200px; object-fit: cover;">
 </p>
 
-# 👋 Hey, I'm Kusa Lechisa
+# 👋 Hey, I'm **Yaduma Lechisa**
 
 <div align="center">
-  <em>Final Year Software Engineering Student at Haramaya University</em>  
-  🚀 Passionate about crafting full-stack apps & solving real-world challenges  
-  🌍 Currently building: <strong>Visit Ethiopia</strong> - A Flutter + Firebase tourism app  
-  🔍 Exploring: AI integration, Offline-first apps, Firebase Cloud Messaging
+  🎓 Final Year Software Engineering Student @ Haramaya University  
+  💡 Passionate about full-stack development & real-world problem solving  
+  📱 Currently working on: <strong>Visit Ethiopia</strong> – a tourism app built with Flutter + Firebase  
+  🔬 Exploring: AI features, Offline-first design, Firebase Cloud Messaging (FCM)
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
-  <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🌟 Featured Project
----
-### 🚀 Visit Ethiopia
-A vibrant mobile app promoting tourism in Ethiopia with social media-like features.  
-**Tech**: Flutter, Firebase (real-time updates, offline support, FCM)  
+
+### 🚀 Visit Ethiopia  
+A social media–inspired mobile app designed to promote Ethiopian tourism.  
+**Tech Used**: Flutter, Firebase (Realtime DB, Offline Sync, FCM)  
 🔗 [GitHub Repo](https://github.com/kusalechisa/visit-ethiopia) | 📱 [Demo Video](#)
 
 <div align="center">
   <img src="https://via.placeholder.com/300x150.png?text=Visit+Ethiopia+Preview" alt="Project Preview" style="border-radius: 8px; margin-top: 10px;">
 </div>
 
-
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,33 +57,30 @@ A vibrant mobile app promoting tourism in Ethiopia with social media-like featur
 
 ## 📝 Blog & Insights
 
-I occasionally write about software engineering, tech discoveries, and learning tips.  
-🔗 [My Blog](https://kusalechisa.netlify.app)
+I occasionally write about software development, tech trends, and learning strategies.  
+🔗 [Read my blog](https://kusalechisa.netlify.app)
 
 ---
 
----
-
-### 📱 Visit Ethiopia - App Screenshots
+## 📸 App Screenshots – Visit Ethiopia
 
 <div align="center">
-  <img src="assets/Screenshot_20250522-130303.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130447.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130504.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130742.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130758.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130825.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130835.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130852.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130901.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-130905.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250523-010406.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-131316.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-131312.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-131256.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
-  <img src="assets/Screenshot_20250522-131236.jpg" width="200" style="display:inline-block; border-radius: 12px; margin: 15px;" />
+  <img src="assets/Screenshot_20250522-130303.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130447.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130504.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130742.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130758.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130825.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130835.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130852.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130901.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-130905.jpg" width="200" />
+  <img src="assets/Screenshot_20250523-010406.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-131316.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-131312.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-131256.jpg" width="200" />
+  <img src="assets/Screenshot_20250522-131236.jpg" width="200" />
 </div>
-
 
 ---
 
@@ -97,9 +95,9 @@ I occasionally write about software engineering, tech discoveries, and learning 
 ---
 
 <div align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
+  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </div>
 
 <p align="center">
-  Thanks for stopping by! ⭐ Give my repos a star if you like my work!
+  ⭐ Thanks for visiting! Feel free to star any project you find useful.
 </p>

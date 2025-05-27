@@ -1,7 +1,7 @@
 # Yaduma Lechisa 👨‍💻
 
 <div align="center">
-  <img src="assets/Screenshot_20250522-131256.jpg" alt="Banner" style="border-radius: 16px; width: 100%; max-height: 300px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="assets/Screenshot_20250522-131256.jpg" alt="Banner" style="border-radius: 16px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ## About Me 🎯
@@ -26,7 +26,7 @@ Currently focused on building **Visit Ethiopia** – A tourism app built with Fl
 
 ### Visit Ethiopia
 <div align="center">
-  <img src="assets/Screenshot_20250523-010406.jpg?text=Visit+Ethiopia+Preview" alt="Project Preview" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="assets/Screenshot_20250523-010406.jpg" alt="Project Preview" style="border-radius: 12px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 A social media–inspired mobile app promoting Ethiopian tourism.
@@ -48,7 +48,7 @@ A social media–inspired mobile app promoting Ethiopian tourism.
 
 ### Feedback & Corruption Suggestion System
 <div align="center">
-  <img src="assets/image.png" alt="Feedback System Preview" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="assets/image.png" alt="Feedback System Preview" style="border-radius: 12px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 A comprehensive web-based platform developed for the Ethiopian Ministry of Innovation and Technology to gather citizen feedback and report corruption within public offices. The system implements secure authentication and real-time data processing to ensure transparency and accountability.

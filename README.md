@@ -101,3 +101,19 @@ I occasionally write about software development, tech trends, and learning strat
 <p align="center">
   ⭐ Thanks for visiting! Feel free to star any project you find useful.
 </p>
+
+---
+
+## 🧩 Other Projects
+
+### 🗣️ Feedback & Corruption Suggestion System  
+A web-based platform for gathering citizen feedback and reporting corruption within public offices.  
+**Tech Stack**: MERN (MongoDB, Express, React, Node.js)  
+🔐 Includes OTP verification, secure authentication  
+📊 Features data visualization dashboards for administrators  
+🌐 Built for the Ethiopian Ministry of Innovation and Technology
+
+### 📚 Academic Tools & Mini Projects  
+- **Python-based Graphics Engine** – Draw and animate objects using object-oriented design  
+- **Library Management System** – A CLI tool using Python for CRUD operations on book records  
+- **Portfolio Website** – Built with HTML, CSS, JavaScript to showcase personal projects

@@ -29,7 +29,7 @@
 ---
 
 ## 🌟 Featured Project
-
+---
 ### 🚀 Visit Ethiopia
 A vibrant mobile app promoting tourism in Ethiopia with social media-like features.  
 **Tech**: Flutter, Firebase (real-time updates, offline support, FCM)  
@@ -40,7 +40,7 @@ A vibrant mobile app promoting tourism in Ethiopia with social media-like featur
 </div>
 
 
-
+---
 ## 📊 GitHub Stats
 
 <p align="center">

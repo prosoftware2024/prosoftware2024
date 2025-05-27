@@ -44,16 +44,19 @@ A vibrant mobile app promoting tourism in Ethiopia with social media-like featur
 ### 📱 Visit Ethiopia - App Screenshots
 
 <div align="center">
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130303.jpg" alt="Screenshot 1" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130447.jpg" alt="Screenshot 2" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130504.jpg" alt="Screenshot 3" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130742.jpg" alt="Screenshot 4" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130758.jpg" alt="Screenshot 5" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130825.jpg" alt="Screenshot 6" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130835.jpg" alt="Screenshot 7" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130852.jpg" alt="Screenshot 8" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130901.jpg" alt="Screenshot 9" width="200" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130905.jpg" alt="Screenshot 10" width="200" style="border-radius: 10px; margin: 5px;" />
+<div align="center">
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130303.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130447.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130504.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130742.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130758.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130825.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130835.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130852.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130901.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/Screenshot_20250522-130905.jpg" width="200" style="border-radius: 10px; margin: 10px;" />
+</div>
+
 </div>
 
 ---

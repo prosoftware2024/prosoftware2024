@@ -1,14 +1,14 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/kusalechisa/kusalechisa/blob/main/0001.jpg" alt="Banner" width="100%" />
+  <img src="https://github.com/kusalechisa/kusalechisa/assets/banner-image.png" alt="Banner" style="border-radius: 10px; width: 100%; max-height: 200px; object-fit: cover;">
 </p>
 
 # 👋 Hey, I'm Kusa Lechisa
 
 <div align="center">
-  <em>Final Year Software Engineering Student at Haramaya University</em><br>
-  🚀 Passionate about crafting full-stack apps & solving real-world challenges<br>
-  🌍 Currently building: <strong>Visit Ethiopia</strong> - A Flutter + Firebase tourism app<br>
+  <em>Final Year Software Engineering Student at Haramaya University</em>  
+  🚀 Passionate about crafting full-stack apps & solving real-world challenges  
+  🌍 Currently building: <strong>Visit Ethiopia</strong> - A Flutter + Firebase tourism app  
   🔍 Exploring: AI integration, Offline-first apps, Firebase Cloud Messaging
 </div>
 
@@ -35,9 +35,26 @@ A vibrant mobile app promoting tourism in Ethiopia with social media-like featur
 **Tech**: Flutter, Firebase (real-time updates, offline support, FCM)  
 🔗 [GitHub Repo](https://github.com/kusalechisa/visit-ethiopia) | 📱 [Demo Video](#)
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Visit+Ethiopia+Preview" alt="Project Preview" width="80%" />
-</p>
+<div align="center">
+  <img src="https://via.placeholder.com/300x150.png?text=Visit+Ethiopia+Preview" alt="Project Preview" style="border-radius: 8px; margin-top: 10px;">
+</div>
+
+---
+
+### 📱 Visit Ethiopia - App Screenshots
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/1.png" alt="Screenshot 1" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/2.png" alt="Screenshot 2" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/3.png" alt="Screenshot 3" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/4.png" alt="Screenshot 4" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/5.png" alt="Screenshot 5" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/6.png" alt="Screenshot 6" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/7.png" alt="Screenshot 7" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/8.png" alt="Screenshot 8" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/9.png" alt="Screenshot 9" width="200" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/kusalechisa/visit-ethiopia/main/assets/screenshots/10.png" alt="Screenshot 10" width="200" style="border-radius: 10px; margin: 5px;" />
+</div>
 
 ---
 

@@ -1,14 +1,14 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/kusalechisa/kusalechisa/assets/banner-image.png" alt="Banner" style="border-radius: 10px; width: 100%; max-height: 200px; object-fit: cover;">
+  <img src="https://github.com/kusalechisa/kusalechisa/assets/banner-image.png" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hey, I'm Kusa Lechisa
 
 <div align="center">
-  <em>Final Year Software Engineering Student at Haramaya University</em>  
-  🚀 Passionate about crafting full-stack apps & solving real-world challenges  
-  🌍 Currently building: <strong>Visit Ethiopia</strong> - A Flutter + Firebase tourism app  
+  <em>Final Year Software Engineering Student at Haramaya University</em><br>
+  🚀 Passionate about crafting full-stack apps & solving real-world challenges<br>
+  🌍 Currently building: <strong>Visit Ethiopia</strong> - A Flutter + Firebase tourism app<br>
   🔍 Exploring: AI integration, Offline-first apps, Firebase Cloud Messaging
 </div>
 
@@ -35,9 +35,9 @@ A vibrant mobile app promoting tourism in Ethiopia with social media-like featur
 **Tech**: Flutter, Firebase (real-time updates, offline support, FCM)  
 🔗 [GitHub Repo](https://github.com/kusalechisa/visit-ethiopia) | 📱 [Demo Video](#)
 
-<div align="center">
-  <img src="https://via.placeholder.com/300x150.png?text=Visit+Ethiopia+Preview" alt="Project Preview" style="border-radius: 8px; margin-top: 10px;">
-</div>
+<p align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Visit+Ethiopia+Preview" alt="Project Preview" width="80%" />
+</p>
 
 ---
 
@@ -64,7 +64,7 @@ I occasionally write about software engineering, tech discoveries, and learning 
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=web&logoColor=white" /></a>
+  <a href="https://kusalechisa.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=flat-square&logo=web&logoColor=white" /></a>
   <a href="https://linkedin.com/in/kusalechisa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kusalechisa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>

@@ -1,7 +1,7 @@
-# CodeRoot Africa  👨‍💻
+# Pro Software  👨‍💻
 
 ## 👨‍🎓 About Me
-> Co-founder of **CodeRoot Africa** – a visionary dev group building meaningful software for Africa's future.
+> Co-founder of **Pro Software** – a visionary dev group building meaningful software for Africa's future.
 
 Currently focused on building **Visit Ethiopia** – a tourism app built with Flutter and Firebase, exploring AI features, offline-first design, and Firebase Cloud Messaging.
 

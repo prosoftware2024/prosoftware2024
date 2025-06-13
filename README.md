@@ -104,16 +104,16 @@ _Another product from the CodeRoot Africa team._
 - **📚 Library Management System** – Python-based CLI tool for book records  
 - **🌐 Portfolio Website** – Modern web showcase built with HTML, CSS, JavaScript  
 
-## 🤝 Connect With Me
+## 🤝 Connect With Us
 
 <div align="center">
-  <a href="https://kusalechisa.netlify.app">
+  <a href="coderootafrica.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/kusalechisa">
+  <a href="https://linkedin.com/in/coderootafrica">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kusalechisa@gmail.com">
+  <a href="mailto:prosoft2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>

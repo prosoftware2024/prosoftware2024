@@ -1,8 +1,6 @@
-# Yaduma Lechisa 👨‍💻
+# CodeRoot Africa  👨‍💻
 
 ## 👨‍🎓 About Me
-
-> **Final Year Software Engineering Student** @ Haramaya University | **Full-Stack Developer** | **Flutter Enthusiast**  
 > Co-founder of **CodeRoot Africa** – a visionary dev group building meaningful software for Africa’s future.
 
 Currently focused on building **Visit Ethiopia** – a tourism app built with Flutter and Firebase, exploring AI features, offline-first design, and Firebase Cloud Messaging.

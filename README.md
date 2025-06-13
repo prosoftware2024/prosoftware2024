@@ -1,14 +1,11 @@
 # Yaduma Lechisa 👨‍💻
 
-<div align="center">
-  <img src="assets/Screenshot_20250522-131256.jpg" alt="Banner" style="border-radius: 16px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
-
 ## 👨‍🎓 About Me
 
-> **Final Year Software Engineering Student** @ Haramaya University | **Full-Stack Developer** | **Flutter Enthusiast**
+> **Final Year Software Engineering Student** @ Haramaya University | **Full-Stack Developer** | **Flutter Enthusiast**  
+> Co-founder of **CodeRoot Africa** – a visionary dev group building meaningful software for Africa’s future.
 
-Currently focused on building **Visit Ethiopia** – A tourism app built with Flutter and Firebase, exploring AI features, offline-first design, and Firebase Cloud Messaging.
+Currently focused on building **Visit Ethiopia** – a tourism app built with Flutter and Firebase, exploring AI features, offline-first design, and Firebase Cloud Messaging.
 
 ## 🛠️ Tech Stack
 
@@ -27,23 +24,20 @@ Currently focused on building **Visit Ethiopia** – A tourism app built with Fl
 ---
 
 ### 📱 Visit Ethiopia
-<div align="center">
-  <img src="assets/Screenshot_20250523-010406.jpg" alt="Project Preview" style="border-radius: 12px; width: 375px; height: 667px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
-
-A social media–inspired mobile app promoting Ethiopian tourism.
+A social media–inspired mobile app promoting Ethiopian tourism.  
+_Developed under the CodeRoot Africa initiative._
 
 #### ✨ Key Features
-- 📱 Cross-platform mobile app
-- 🔄 Real-time synchronization
-- 📍 Location-based services
-- 🔔 Push notifications
-- 💾 Offline-first architecture
+- 📱 Cross-platform mobile app  
+- 🔄 Real-time synchronization  
+- 📍 Location-based services  
+- 🔔 Push notifications  
+- 💾 Offline-first architecture  
 
 #### 🛠️ Tech Stack
-- Flutter for UI/UX
-- Firebase Realtime Database
-- Firebase Cloud Messaging
+- Flutter for UI/UX  
+- Firebase Realtime Database  
+- Firebase Cloud Messaging  
 - Offline Sync Capabilities
 
 [🔗 GitHub Repository](https://github.com/kusalechisa/visit-ethiopia) | [📱 Live Demo](#)
@@ -55,16 +49,17 @@ A social media–inspired mobile app promoting Ethiopian tourism.
   <img src="assets/image.png" alt="Feedback System Preview" style="border-radius: 12px; width: 800px; height: 450px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
-A comprehensive web-based platform developed for the Ethiopian Ministry of Innovation and Technology to gather citizen feedback and report corruption within public offices. The system implements secure authentication and real-time data processing to ensure transparency and accountability.
+A comprehensive web-based platform developed for the Ethiopian Ministry of Innovation and Technology to gather citizen feedback and report corruption within public offices. The system implements secure authentication and real-time data processing to ensure transparency and accountability.  
+_Another product from the CodeRoot Africa team._
 
 #### ✨ Key Features
-- 🔐 OTP Verification for secure user authentication
-- 📊 Interactive Data Visualization Dashboards
-- 🔒 Role-based Access Control
-- 📱 Responsive Design for all devices
-- 📈 Real-time Analytics and Reporting
-- 🔔 Automated Notification System
-- 📝 Anonymous Submission Option
+- 🔐 OTP Verification for secure user authentication  
+- 📊 Interactive Data Visualization Dashboards  
+- 🔒 Role-based Access Control  
+- 📱 Responsive Design for all devices  
+- 📈 Real-time Analytics and Reporting  
+- 🔔 Automated Notification System  
+- 📝 Anonymous Submission Option  
 
 #### 🛠️ Tech Stack
 <div align="center">
@@ -77,10 +72,10 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 </div>
 
 #### 🏆 Key Achievements
-- 🏆 Implemented secure data encryption for sensitive information
-- 📈 Reduced response time to citizen complaints by 60%
-- 🔒 Successfully handled over 10,000 secure submissions
-- 🌐 Integrated with government systems for seamless workflow
+- 🏆 Implemented secure data encryption for sensitive information  
+- 📈 Reduced response time to citizen complaints by 60%  
+- 🔒 Successfully handled over 10,000 secure submissions  
+- 🌐 Integrated with government systems for seamless workflow  
 
 [🔗 GitHub Repository](https://github.com/kusalechisa/feedback) | [🌐 Live Demo](https://feedback-website.onrender.com/homepage)
 
@@ -94,24 +89,22 @@ A comprehensive web-based platform developed for the Ethiopian Ministry of Innov
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalechisa&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalechisa&layout=compact&theme=radical&hide_border=true&count_private=true" width="48%" />
 </div>
 
 ## 📱 Visit Ethiopia App Showcase
 
 <div align="center">
+  <img src="assets/Screenshot_20250522-131256.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
   <img src="assets/Screenshot_20250522-130303.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
-  <img src="assets/Screenshot_20250522-130447.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
-  <img src="assets/Screenshot_20250522-130504.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
-  <img src="assets/Screenshot_20250522-130742.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
   <img src="assets/Screenshot_20250522-130758.jpg" width="180" style="border-radius: 12px; margin: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" />
 </div>
 
 ## 🎯 Mini Projects
 
-- **🎨 Python Graphics Engine** – Object-oriented design for drawing and animation
-- **📚 Library Management System** – Python-based CLI tool for book records
-- **🌐 Portfolio Website** – Modern web showcase built with HTML, CSS, JavaScript
+- **🎨 Python Graphics Engine** – Object-oriented design for drawing and animation  
+- **📚 Library Management System** – Python-based CLI tool for book records  
+- **🌐 Portfolio Website** – Modern web showcase built with HTML, CSS, JavaScript  
 
 ## 🤝 Connect With Me
 

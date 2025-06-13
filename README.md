@@ -1,7 +1,7 @@
 # CodeRoot Africa  👨‍💻
 
 ## 👨‍🎓 About Me
-> Co-founder of **CodeRoot Africa** – a visionary dev group building meaningful software for Africa’s future.
+> Co-founder of **CodeRoot Africa** – a visionary dev group building meaningful software for Africa's future.
 
 Currently focused on building **Visit Ethiopia** – a tourism app built with Flutter and Firebase, exploring AI features, offline-first design, and Firebase Cloud Messaging.
 
@@ -82,12 +82,12 @@ _Another product from the CodeRoot Africa team._
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kusalechisa&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kusalechisa&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prosoftware2024&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosoftware2024&theme=radical&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusalechisa&layout=compact&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosoftware2024&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 </div>
 
 ## 📱 Visit Ethiopia App Showcase
